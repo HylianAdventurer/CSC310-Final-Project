@@ -5,6 +5,7 @@ int k;
 
 using namespace std;
 
+
 typedef struct employee
 {
 	int department;
