@@ -1,6 +1,7 @@
 #include <iostream>
 //Commited by Tim
-
+//Attempt 2
+int k;
 
 using namespace std;
 
