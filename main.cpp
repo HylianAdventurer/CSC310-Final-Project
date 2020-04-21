@@ -1,10 +1,8 @@
 #include <iostream>
 //Commited by Tim
-//Attempt 2
-int k;
+//Attempt 4
 
 using namespace std;
-
 
 typedef struct employee
 {
