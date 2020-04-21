@@ -1,6 +1,6 @@
 #include <iostream>
 //Commited by Tim
-//Attempt 4
+//Attempt 6
 
 using namespace std;
 
@@ -8,7 +8,7 @@ typedef struct employee
 {
 	int department;
 	int employee_id;
-	char name[30];
+	char name[20];
 } e_EMPLOYEE;
 
 
