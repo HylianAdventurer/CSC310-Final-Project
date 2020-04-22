@@ -1,15 +1,6 @@
 #include <iostream>
-
-using namespace std;
-
-typedef struct employee
-{
-	int department;
-	int employee_id;
-	char name[30];
-} e_EMPLOYEE;
-
+#include "binaryFile.h"
 
 int main() {
-
+    binaryFile bf = binaryFile("test.bf");
 }

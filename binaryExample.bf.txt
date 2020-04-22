@@ -1,0 +1,8 @@
+[Pointer to first employee from Department 0]
+[Pointer to first employee from Department 1]
+[Pointer to first employee from Department 2]
+[Pointer to first employee from Department 3]
+[Pointer to first employee from Department 4]
+[
+    All employees as binary.
+]
