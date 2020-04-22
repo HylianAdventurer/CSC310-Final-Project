@@ -12,4 +12,7 @@ typedef struct employee
 
 int main() {
 
+
+	cout << "END OF MAIN" << endl;
+	return 0;
 }
