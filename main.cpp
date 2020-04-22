@@ -6,7 +6,7 @@ typedef struct employee
 {
 	int department;
 	int employee_id;
-	char name[20];
+	char name[30];
 } e_EMPLOYEE;
 
 
