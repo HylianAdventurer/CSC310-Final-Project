@@ -1,6 +1,4 @@
 #include <iostream>
-//Commited by Tim
-//Attempt 6
 
 using namespace std;
 
